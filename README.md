@@ -163,10 +163,9 @@ If you use this work in your research, please cite:
 
 **Mudit Kumar Singh** - B.Tech in Electronics and Communication Engineering
 
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Mudit Kumar Singh](https://www.linkedin.com/in/your-profile)
-- 🏢 GitHub: [@your-username](https://github.com/your-username)
-- 🎓 ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+- 📧 Email:  muditsingh822@gmail.com
+- 🔗 LinkedIn: [Mudit Kumar Singh](https://www.linkedin.com/in/mudit-kr-singh)
+- 🏢 GitHub: [@MUDITKUMARSINGH25](https://github.com/MUDITKUMARSINGH25)
 
 ## 📜 License
 
