@@ -32,7 +32,7 @@ This project pioneers a novel framework for optimizing electromagnetic field dis
 
 ### Google Colab Installation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Quantum-6G-Beamforming/blob/main/Quantum_6G_Beamforming.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MUDITKUMARSINGH25/Quantum-Inspired-Electromagnetic-Field-Optimization-for-6G-Beamforming/blob/60f3b9b99cd83191c9fb880b3df606c5f7dad32f/README.md)
 
 1. Click the "Open in Colab" button above
 2. Run all cells in the notebook (Runtime → Run all)
