@@ -11,7 +11,7 @@
 
 **A groundbreaking quantum-inspired approach to electromagnetic field optimization for next-generation wireless systems**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Quantum-6G-Beamforming/blob/main/Quantum_6G_Beamforming.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MUDITKUMARSINGH25/Quantum-Inspired-Electromagnetic-Field-Optimization-for-6G-Beamforming/blob/60f3b9b99cd83191c9fb880b3df606c5f7dad32f/README.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10000000.svg)](https://doi.org/10.5281/zenodo.10000000)
 
 </div>
